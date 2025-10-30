@@ -1,0 +1,2 @@
+# Ideas
+Remove premature optimization that introduced a bug
